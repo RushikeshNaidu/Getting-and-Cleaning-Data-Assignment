@@ -8,8 +8,9 @@ Additional information about the variables, data and transformations used in the
 
 Variables in tidydataset.txt
 
-subject : ID for group of 30 volunteers within an age bracket of 19-48 years
-activity : Type of activity performed when the measurement is taken.
+####subject : ID for group of 30 volunteers within an age bracket of 19-48 years
+
+####activity : Type of activity performed when the measurement is taken.
            Includes : 
            a) Walking 
            b) Walking upstairs 
@@ -18,7 +19,7 @@ activity : Type of activity performed when the measurement is taken.
            e) Standing 
            f) Laying
 
-Measurements:
+####Measurements:
 
 "timeBodyAccMean-X"                
 "timeBodyAccMean-Y"                
