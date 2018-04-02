@@ -1,16 +1,16 @@
-#Getting and Cleaning Data Assignment
+# Getting and Cleaning Data Assignment
 
-##By Rushikesh Naidu
+## By Rushikesh Naidu
 
-###Description
+### Description
 
 Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
 
 Variables in tidydataset.txt
 
-####subject : ID for group of 30 volunteers within an age bracket of 19-48 years
+#### subject : ID for group of 30 volunteers within an age bracket of 19-48 years
 
-####activity : Type of activity performed when the measurement is taken.
+#### activity : Type of activity performed when the measurement is taken.
            Includes : 
            a) Walking 
            b) Walking upstairs 
@@ -19,7 +19,7 @@ Variables in tidydataset.txt
            e) Standing 
            f) Laying
 
-####Measurements:
+#### Measurements:
 
 "timeBodyAccMean-X"                
 "timeBodyAccMean-Y"                
